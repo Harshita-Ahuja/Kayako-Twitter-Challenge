@@ -1,0 +1,41 @@
+.display_none{
+	display:none;
+}
+
+.profile_css{
+	border-bottom: 1px solid grey;
+}
+
+.profile_text_css{
+	color:red; font-size:15px;
+}
+
+.logout_css{
+	color:black; padding:10px; background-color:lightgrey; float:right; margin:5px;
+}
+
+.rt_tweets_css{
+	border-right: 1px solid grey;
+}
+
+.load_tweets_css{
+	color:black; padding:10px; background-color:lightgrey; margin:5px;
+}
+
+.tweets_css{
+	border-bottom: 1px solid lightgrey;
+}
+
+.tweet_user_name{
+	color:#365899;
+}
+
+.rt_tweet_count_css{
+	font-size:15px;
+}
+
+.hashtag_tweets_css{
+	border-left: 1px solid grey;
+}
+
+.
